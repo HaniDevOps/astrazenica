@@ -1,4 +1,5 @@
 #while loop demo
+#This is pring the numbers in reverse order
 
 i=5
 while [ $i -ge 1 ]
