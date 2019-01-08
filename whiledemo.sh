@@ -7,3 +7,5 @@ echo $i
 i=`expr $i - 1`
 
 done
+
+echo "this is sample while loop code"
