@@ -1,5 +1,0 @@
-this is file to test the add command options
-seconed line to stage
-thired line to stage
-fourth line to stage
-adding another line
